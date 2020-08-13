@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Paul-react-portfolio/static/css/main.b28b49e6.chunk.css",
+    "main.js": "/Paul-react-portfolio/static/js/main.cd8272cd.chunk.js",
+    "main.js.map": "/Paul-react-portfolio/static/js/main.cd8272cd.chunk.js.map",
+    "runtime~main.js": "/Paul-react-portfolio/static/js/runtime~main.6e23b39b.js",
+    "runtime~main.js.map": "/Paul-react-portfolio/static/js/runtime~main.6e23b39b.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/Paul-react-portfolio/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.3f72f909.chunk.js": "/Paul-react-portfolio/static/js/2.3f72f909.chunk.js",
+    "static/js/2.3f72f909.chunk.js.map": "/Paul-react-portfolio/static/js/2.3f72f909.chunk.js.map",
+    "index.html": "/Paul-react-portfolio/index.html",
+    "precache-manifest.555c86c0162b8d9855dfe798dc6cb345.js": "/Paul-react-portfolio/precache-manifest.555c86c0162b8d9855dfe798dc6cb345.js",
+    "service-worker.js": "/Paul-react-portfolio/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/Paul-react-portfolio/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.b28b49e6.chunk.css.map": "/Paul-react-portfolio/static/css/main.b28b49e6.chunk.css.map",
+    "static/media/index.scss": "/Paul-react-portfolio/static/media/todolist.ac82d97d.png",
+    "static/media/myImage.png": "/Paul-react-portfolio/static/media/myImage.2739b2c5.png"
+  }
+}
